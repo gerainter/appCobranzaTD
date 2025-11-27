@@ -7,3 +7,6 @@ lightgbm>=4.0
 matplotlib
 seaborn
 joblib
+plotly.express
+joblib
+os
