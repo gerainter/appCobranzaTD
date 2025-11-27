@@ -9,4 +9,3 @@ seaborn
 joblib
 plotly.express
 joblib
-os
