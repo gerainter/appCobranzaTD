@@ -22,9 +22,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Ruta al PDF de referencia (archivo que subiste)
-PDF_PATH = "/mnt/data/harvard-business-review-analytic-services-modernizing-debt-collection-through-ai-and-ei.pdf"
-
 # Rutas por defecto (ajusta si es necesario)
 DATA_PATH = "data/df_result_nuevos.csv"               # tu dataset final
 
